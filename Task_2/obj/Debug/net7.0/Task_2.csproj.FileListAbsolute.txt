@@ -1,0 +1,15 @@
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/obj/Debug/net7.0/Task_2.csproj.AssemblyReference.cache
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/obj/Debug/net7.0/Task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/obj/Debug/net7.0/Task_2.AssemblyInfoInputs.cache
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/obj/Debug/net7.0/Task_2.AssemblyInfo.cs
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/obj/Debug/net7.0/Task_2.csproj.CoreCompileInputs.cache
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/bin/Debug/net7.0/Task_2
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/bin/Debug/net7.0/Task_2.deps.json
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/bin/Debug/net7.0/Task_2.runtimeconfig.json
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/bin/Debug/net7.0/Task_2.dll
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/bin/Debug/net7.0/Task_2.pdb
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/obj/Debug/net7.0/Task_2.dll
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/obj/Debug/net7.0/refint/Task_2.dll
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/obj/Debug/net7.0/Task_2.pdb
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/obj/Debug/net7.0/Task_2.genruntimeconfig.cache
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_2/obj/Debug/net7.0/ref/Task_2.dll
