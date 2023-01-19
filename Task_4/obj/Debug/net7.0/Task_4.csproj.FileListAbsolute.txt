@@ -1,0 +1,15 @@
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/obj/Debug/net7.0/Task_4.csproj.AssemblyReference.cache
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/obj/Debug/net7.0/Task_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/obj/Debug/net7.0/Task_4.AssemblyInfoInputs.cache
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/obj/Debug/net7.0/Task_4.AssemblyInfo.cs
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/obj/Debug/net7.0/Task_4.csproj.CoreCompileInputs.cache
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/bin/Debug/net7.0/Task_4
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/bin/Debug/net7.0/Task_4.deps.json
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/bin/Debug/net7.0/Task_4.runtimeconfig.json
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/bin/Debug/net7.0/Task_4.dll
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/bin/Debug/net7.0/Task_4.pdb
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/obj/Debug/net7.0/Task_4.dll
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/obj/Debug/net7.0/refint/Task_4.dll
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/obj/Debug/net7.0/Task_4.pdb
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/obj/Debug/net7.0/Task_4.genruntimeconfig.cache
+/Users/yuliya/Desktop/GIT/HomeWork1/Task_4/obj/Debug/net7.0/ref/Task_4.dll
