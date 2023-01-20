@@ -4,7 +4,7 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 */ 
 
-Console.WriteLine("Введите первое число: ");
+/*Console.WriteLine("Введите первое число: ");
 string number1 = Console.ReadLine();
 int numberOne = Convert.ToInt32(number1);
 
@@ -23,6 +23,24 @@ if(numberOne < numberTwo)
     Console.WriteLine("Большее число - "+numberTwo);
     Console.Write("Меньшее число - "+numberOne);
 }
+if(numberOne == numberTwo)
+{
+    Console.WriteLine("Числа равны");
+}
+*/
+
+Console.WriteLine("Введите первое число: ");
+int numberOne = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Введите второе число: ");
+int numberTwo = Convert.ToInt32(Console.ReadLine());
+
+int max = numberOne;
+if(numberOne < numberTwo) max = numberTwo;
+{
+    Console.WriteLine("Большее число - "+max);
+}
+
 if(numberOne == numberTwo)
 {
     Console.WriteLine("Числа равны");
