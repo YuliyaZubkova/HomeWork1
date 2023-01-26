@@ -14,7 +14,7 @@ int numberTwo = Convert.ToInt32(Console.ReadLine());
 int max = numberOne;
 if(numberOne < numberTwo) max = numberTwo;
 {
-    Console.WriteLine("Большее число - "+max);
+    Console.WriteLine("Большее число: "+max);
 }
 
 if(numberOne == numberTwo)
